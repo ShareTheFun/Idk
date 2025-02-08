@@ -10,6 +10,11 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@types/node": "^18.0.6"
+    "@types/node": "^18.0.6",
+    "axios": "^1.7.9",
+    "body-parser": "^1.20.3",
+    "express": "^4.21.2",
+    "form-data": "^4.0.1",
+    "nayan-videos-downloader": "^0.1.3"
   }
 }
